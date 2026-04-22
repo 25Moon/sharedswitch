@@ -16,8 +16,9 @@ html, body {
 }
 
 #btn {
-    min-width: 300px;
-    min-height: 300px;
+    min-width: 375px;
+    min-height: 375px;
+    padding: 2%;
     width: 20dvw;
     height: 20dvw;
     border-radius: 20%;
