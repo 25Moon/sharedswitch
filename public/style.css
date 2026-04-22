@@ -14,7 +14,10 @@ html, body {
     justify-content: center;
     background: #eee;
 }
+
 #btn {
+    min-width: 300px;
+    min-height: 300px;
     width: 20dvw;
     height: 20dvw;
     border-radius: 20%;
@@ -24,3 +27,4 @@ html, body {
     background: #000;
     box-shadow: 2px 2px 5px #fff, -2px 2px 5px #fff, -2px -2px 5px #fff, 2px -2px 5px #fff;
 }
+
